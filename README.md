@@ -14,3 +14,5 @@ We have also written a couple of guides to help you get started:
 1. [HiC ](https://github.com/BiCro-HT/HiC-nextflow-analysis)using nextflow
 2. [BLISS](https://github.com/BiCro-HT/sBLISS-HT)  :warning: work in progress!
 3. [scDNA-CNV](https://github.com/BiCro-HT) using nextflow  :warning: work in progress!
+4. [New Profiler](https://github.com/giorava/new_profiler) :stars: pipeline for radial profiling +/- deconwolf (from Giorgio, includes GUI!)
+
